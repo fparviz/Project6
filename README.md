@@ -12,8 +12,10 @@ Resources used for project:
 
 How to Run:
 
-
-1. On launching the App, Jasmine test results are displayed at the bottom
+1. Launch the App by going to index.html
+2. Jasmine shows the results of the tests at the bottom of the page.
+3. The results will show 8 specs and 0 Failures
+4. The tests that are passed cover RSS Feeds, The Menu, Initial Entries, and New Feed Selection
 
 
 
